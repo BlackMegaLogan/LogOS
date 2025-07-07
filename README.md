@@ -1,6 +1,7 @@
 # LogOS
 
-**LogOS** is a work-in-progress OS framework written in Go. It aims to create a simplistic computing experience both with its internal workings and usability.
+**LogOS** is a work-in-progress OS framework written in C. It aims to create a
+simplistic computing experience both with its internal workings and usability.
 
 **LogOS** is built upon the Triple L Framework, including:
 
@@ -9,9 +10,11 @@
 - **Light** – GUI and graphical shell (coming soon)
 
 
-
 ## Getting Started
 ```bash
 git clone https://github.com/BlackMegaLogan/LogOS
 cd LogOS
-go run cmd/logos/main.go
+# Build LITTLE, the minimal CLI interpreter
+make -C little
+./little/little
+```
