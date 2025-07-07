@@ -5,7 +5,7 @@ simplistic computing experience from its multikernel model.
 
 **LogOS** is built upon the Triple L Framework, including:
 
-- **Lush** – The command-line interface
+- **LUSH/LITTLE** – The two separate shells to ensure your computing experience is interchangeable.
 - **Long** – The planned backend language (coming soon)
 - **Light** – GUI and graphical shell (coming soon)
 
