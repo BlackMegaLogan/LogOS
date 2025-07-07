@@ -1,7 +1,7 @@
 # LogOS
 
-**LogOS** is a work-in-progress OS framework written in Go. It aims to create a
-simplistic computing experience both with its internal workings and usability.
+**LogOS** is a experimental OS framework forked from. Barrelfish. It aims to create a
+simplistic computing experience from its multikernel model.
 
 **LogOS** is built upon the Triple L Framework, including:
 
@@ -11,10 +11,5 @@ simplistic computing experience both with its internal workings and usability.
 
 
 ## Getting Started
-```bash
-git clone https://github.com/BlackMegaLogan/LogOS
-cd LogOS
-# Build LITTLE, the minimal CLI interpreter
-make -C little
-./little/little
+```Not enough work to be built yet, check in later ;3
 ```
