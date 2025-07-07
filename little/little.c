@@ -57,7 +57,7 @@ void print_help(void) {
     printf("  fc <file>    - copy file to clipboard\n");
     printf("  fp <dest>    - paste clipboard to destination\n");
     printf("  help         - show this help\n");
-    printf("  exit/q       - exit the interpreter\n");
+    printf("  exit/q       - exit the shell\n");
 }
 
 int main(void) {
