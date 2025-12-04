@@ -1,5 +1,7 @@
 # LogOS
 
+[THIS PROJECT HAS BEEN PUT ON HOLD TO WORK ON "LogOS: Fusion". ]
+
 **LogOS** is a experimental OS framework forked from. Barrelfish. It aims to create a
 simplistic computing experience from its multikernel model.
 
